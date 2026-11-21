@@ -1,0 +1,14 @@
+{
+  "id": 13,
+  "title": "Education and Fertility",
+  "question": "How are education and fertility associated across historical regions?",
+  "x": "Education",
+  "y": "Fertility",
+  "mode": "relation",
+  "caveat": "Ecological 1888 Swiss data; correlation does not establish individual behaviour or causation.",
+  "action": "Identify confounding and avoid policy extrapolation.",
+  "csv": "https://vincentarelbundock.github.io/Rdatasets/csv/datasets/swiss.csv",
+  "doc": "https://vincentarelbundock.github.io/Rdatasets/doc/datasets/swiss.html",
+  "metric_label": "mean Fertility",
+  "method": "Complete-pair scatter plot of Education and Fertility, with Pearson and Spearman correlations. No regression adjustment or causal claim."
+}

@@ -1,0 +1,8 @@
+column,dtype,missing,missing_pct,distinct
+rownames,object,0,0.0,47
+Fertility,float64,0,0.0,46
+Agriculture,float64,0,0.0,47
+Examination,int64,0,0.0,22
+Education,int64,0,0.0,19
+Catholic,float64,0,0.0,46
+Infant.Mortality,float64,0,0.0,37

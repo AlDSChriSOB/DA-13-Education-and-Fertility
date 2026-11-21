@@ -1,0 +1,18 @@
+{
+  "project": "Education and Fertility",
+  "executed_utc": "2026-11-21T10:14:12.309831+00:00",
+  "source": "https://vincentarelbundock.github.io/Rdatasets/csv/datasets/swiss.csv",
+  "documentation": "https://vincentarelbundock.github.io/Rdatasets/doc/datasets/swiss.html",
+  "sha256": "e9ee520d190a6586bb3072d5b4cace46930ce3eb3c85ba6d70fc2afa1e37dae8",
+  "raw_rows": 47,
+  "analysis_rows": 47,
+  "excluded_rows": 0,
+  "exact_duplicate_rows": 0,
+  "duplicates_policy": "Retained; duplicate values do not necessarily mean duplicate entities.",
+  "python": "3.12.14",
+  "pandas": "2.2.3",
+  "numpy": "2.3.5",
+  "matplotlib": "3.10.8",
+  "pearson": -0.6637888570350693,
+  "spearman": -0.4432576903609882
+}
